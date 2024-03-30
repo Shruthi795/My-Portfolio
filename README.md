@@ -1,1 +1,2 @@
 # My-Portfolio
+"Welcome to my portfolio template! This project showcases my skills in front-end development using HTML and CSS. The template is designed to be clean, responsive, and easy to customize. Whether you're a developer looking for a stylish portfolio or a designer in need of a sleek showcase, this template has got you covered. Feel free to explore the code and adapt it to suit your needs. Let's create something beautiful together!"
